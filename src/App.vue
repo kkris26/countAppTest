@@ -44,4 +44,13 @@ button{
   padding: 10px 20px;
 }
 
+@media (max-width: 768px){
+  button{
+
+    padding: 8px 14px;
+    border: 2px solid green;
+    margin: 0 2px;
+  }
+  
+}
 </style>
